@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4E942E0C29DA7BF80079B5EE /* ContentView2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E942E0B29DA7BF80079B5EE /* ContentView2.swift */; };
 		4EBA625529C94625009373FD /* TestSketchZoomApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EBA625429C94625009373FD /* TestSketchZoomApp.swift */; };
 		4EBA625729C94625009373FD /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EBA625629C94625009373FD /* ContentView.swift */; };
 		4EBA625929C94627009373FD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4EBA625829C94627009373FD /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4E942E0B29DA7BF80079B5EE /* ContentView2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView2.swift; sourceTree = "<group>"; };
 		4EBA625129C94625009373FD /* TestSketchZoom.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestSketchZoom.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4EBA625429C94625009373FD /* TestSketchZoomApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestSketchZoomApp.swift; sourceTree = "<group>"; };
 		4EBA625629C94625009373FD /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			children = (
 				4EBA625429C94625009373FD /* TestSketchZoomApp.swift */,
 				4EBA625629C94625009373FD /* ContentView.swift */,
+				4E942E0B29DA7BF80079B5EE /* ContentView2.swift */,
 				4EBA625829C94627009373FD /* Assets.xcassets */,
 				4EBA625A29C94627009373FD /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4E942E0C29DA7BF80079B5EE /* ContentView2.swift in Sources */,
 				4EBA625729C94625009373FD /* ContentView.swift in Sources */,
 				4EBA625529C94625009373FD /* TestSketchZoomApp.swift in Sources */,
 			);
@@ -267,6 +271,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"TestSketchZoom/Preview Content\"";
+				DEVELOPMENT_TEAM = MTAZVCC748;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -295,6 +300,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"TestSketchZoom/Preview Content\"";
+				DEVELOPMENT_TEAM = MTAZVCC748;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
